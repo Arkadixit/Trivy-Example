@@ -1,0 +1,3 @@
+reports/
+trivy-secret.yaml
+.git/
